@@ -1,4 +1,7 @@
-### Hi there 👋
+### !Hola!
+Soy Marino soy japones.
+Y soy un principiante de juegos
+Actualmente estoy interesado 6502(NES Lenguaje de programación)
 
 <!--
 **MariallenaHax/MariallenaHax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
